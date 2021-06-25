@@ -1,1 +1,1 @@
-# c codes debugged
+# debugging scripts
